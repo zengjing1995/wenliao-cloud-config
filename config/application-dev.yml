@@ -1,0 +1,14 @@
+# Tomcat 配置
+server:
+
+  tomcat:
+    uri-encoding: UTF-8
+
+# Spring 配置
+spring:
+
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
