@@ -5,9 +5,9 @@ zuul:
   forceOriginalQueryStringEncoding: true
   routes:
     app:
-      path: /wenliaoAPI/**
+      path: /wenliaoAPI/user/**
       sensitiveHeaders:
-      service-id: app
+      service-id: user
       ribbon:
         eager-load:
           enabled: true
