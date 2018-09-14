@@ -29,8 +29,8 @@ ribbon:
   MaxAutoRetries: 1
   MaxAutoRetriesNextServer: 2
   OkToRetryOnAllOperations: false
-  ConnectTimeout: 60000
-  ReadTimeout: 20000
+  ConnectTimeout: 6000
+  ReadTimeout: 2000
 
 hystrix:
   command:
@@ -40,4 +40,4 @@ hystrix:
           enabled: true
         isolation:
           thread:
-            timeoutInMilliseconds: 100000
+            timeoutInMilliseconds: 20000
