@@ -60,3 +60,15 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 20000
+
+wenliao:
+  oss-url: https://wldev.oss-cn-shenzhen.aliyuncs.com/resources/
+  gd-key: 75c45504295d8dc774e0704ba2095784
+
+rongcloud:
+  key: mgb7ka1nmwlxg
+  secret: 6y8u09q4lE
+
+jpush:
+  appKey: 14e0fcd9c7f4b06322c75829
+  master-secret: 0d72459e4ad7316dadbddcd4
