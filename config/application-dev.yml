@@ -41,6 +41,10 @@ hystrix:
           thread:
             timeoutInMilliseconds: 20000
 
+oss:
+  oss-url: https://wldev.oss-cn-shenzhen.aliyuncs.com/resources/
+
+
 wenliao:
   oss-url: https://wldev.oss-cn-shenzhen.aliyuncs.com/resources/
   gd-key: 75c45504295d8dc774e0704ba2095784
