@@ -12,7 +12,7 @@ zuul:
     connect-timeout-millis: 60000
   forceOriginalQueryStringEncoding: true
   routes:
-    app:
+    user:
       path: /wenliaoAPI/user/**
       sensitiveHeaders:
       service-id: user
