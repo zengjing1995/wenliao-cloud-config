@@ -12,7 +12,7 @@ spring:
     date-format: yyyy-MM-dd HH:mm:ss
 
   rabbitmq:
-    host: localhost
+    host:
     port: 5672
     username: guest
     password: guest
