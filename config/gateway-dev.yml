@@ -24,6 +24,18 @@ zuul:
         OkToRetryOnAllOperations: false
         ConnectTimeout: 10000
         ReadTimeout: 10000
+    question:
+      path: /question/**
+      sensitiveHeaders:
+      service-id: user
+      ribbon:
+        eager-load:
+          enabled: true
+        MaxAutoRetries: 1
+        MaxAutoRetriesNextServer: 2
+        OkToRetryOnAllOperations: false
+        ConnectTimeout: 10000
+        ReadTimeout: 10000
     jms:
       path: /jms/**
       sensitiveHeaders:
