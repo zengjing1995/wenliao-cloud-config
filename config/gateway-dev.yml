@@ -13,7 +13,7 @@ zuul:
   forceOriginalQueryStringEncoding: true
   routes:
     user:
-      path: /wenliaoAPI/user/**
+      path: /user/**
       sensitiveHeaders:
       service-id: user
       ribbon:
