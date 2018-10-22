@@ -27,7 +27,7 @@ zuul:
     question:
       path: /question/**
       sensitiveHeaders:
-      service-id: user
+      service-id: question
       ribbon:
         eager-load:
           enabled: true
