@@ -12,7 +12,7 @@ spring:
     date-format: yyyy-MM-dd HH:mm:ss
 
   rabbitmq:
-    host:
+    host: localhost
     port: 5672
     username: guest
     password: guest
@@ -27,6 +27,8 @@ feign:
         readTimeout: 5000
 
 ribbon:
+  eureka:
+    enabled: true
   eager-load:
     enabled: true
   MaxAutoRetries: 1
