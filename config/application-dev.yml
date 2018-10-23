@@ -3,6 +3,8 @@ server:
 
   tomcat:
     uri-encoding: UTF-8
+    remote-ip-header: x-forwarded-for
+  use-forward-headers: true
 
 # Spring 配置
 spring:
