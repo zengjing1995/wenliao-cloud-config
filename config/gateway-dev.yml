@@ -77,9 +77,9 @@ zuul:
         ConnectTimeout: 10000
         ReadTimeout: 10000
     remind:
-      path: /remind/**
+      path: /system/**
       sensitiveHeaders:
-      service-id: remind
+      service-id: system
       ribbon:
         eager-load:
           enabled: true
