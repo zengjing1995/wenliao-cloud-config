@@ -76,7 +76,7 @@ zuul:
         OkToRetryOnAllOperations: false
         ConnectTimeout: 10000
         ReadTimeout: 10000
-    remind:
+    system:
       path: /system/**
       sensitiveHeaders:
       service-id: system

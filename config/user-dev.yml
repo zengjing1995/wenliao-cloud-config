@@ -42,7 +42,7 @@ spring:
 mybatis-plus:
   mapper-locations: classpath:/mapper/**/*.xml
   #实体扫描，多个package用逗号或者分号分隔
-  typeAliasesPackage: com.wenliao.cloud.domain.*
+  typeAliasesPackage: com.wenliao.cloud.domain
   global-config:
     #刷新mapper 调试神器
     refresh: true
