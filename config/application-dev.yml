@@ -19,6 +19,11 @@ spring:
     username: guest
     password: guest
 
+  management:
+    security:
+      enabled: false
+
+
 feign:
   hystrix:
     enabled: true
@@ -64,3 +69,6 @@ rongcloud:
 jpush:
   appKey: 14e0fcd9c7f4b06322c75829
   master-secret: 0d72459e4ad7316dadbddcd4
+
+logging:
+  file: log
