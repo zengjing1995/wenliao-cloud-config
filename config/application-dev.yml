@@ -26,20 +26,12 @@ spring:
 feign:
   hystrix:
     enabled: true
-  client:
-    config:
-      default:
-        connectTimeout: 5000
-        readTimeout: 5000
 
 ribbon:
-  eager-load:
-    enabled: true
-  MaxAutoRetries: 1
-  MaxAutoRetriesNextServer: 2
-  OkToRetryOnAllOperations: false
-  ConnectTimeout: 60000
-  ReadTimeout: 20000
+  MaxAutoRetries: 0
+  MaxAutoRetriesNextServer: 0
+  ConnectTimeout: 1000000
+  ReadTimeout: 1200000
 
 hystrix:
   command:
