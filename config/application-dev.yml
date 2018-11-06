@@ -23,26 +23,15 @@ spring:
     security:
       enabled: false
 
-
 feign:
   hystrix:
     enabled: true
-  client:
-    config:
-      default:
-        connectTimeout: 5000
-        readTimeout: 5000
 
 ribbon:
-  eureka:
-    enabled: true
-  eager-load:
-    enabled: true
-  MaxAutoRetries: 1
-  MaxAutoRetriesNextServer: 2
-  OkToRetryOnAllOperations: false
-  ConnectTimeout: 60000
-  ReadTimeout: 20000
+  MaxAutoRetries: 0
+  MaxAutoRetriesNextServer: 0
+  ConnectTimeout: 1000000
+  ReadTimeout: 1200000
 
 hystrix:
   command:
@@ -52,7 +41,7 @@ hystrix:
           enabled: true
         isolation:
           thread:
-            timeoutInMilliseconds: 500000
+            timeoutInMilliseconds: 50000
 
 oss:
   oss-url: https://wldev.oss-cn-shenzhen.aliyuncs.com/resources/
