@@ -52,7 +52,7 @@ hystrix:
           enabled: true
         isolation:
           thread:
-            timeoutInMilliseconds: 200000
+            timeoutInMilliseconds: 500000
 
 oss:
   oss-url: https://wldev.oss-cn-shenzhen.aliyuncs.com/resources/
