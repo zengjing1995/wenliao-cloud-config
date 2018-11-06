@@ -62,8 +62,8 @@ zuul:
         MaxAutoRetries: 1
         MaxAutoRetriesNextServer: 2
         OkToRetryOnAllOperations: false
-        ConnectTimeout: 60000
-        ReadTimeout: 60000
+        ConnectTimeout: 15000
+        ReadTimeout: 15000
     im:
       path: /im/**
       sensitiveHeaders:
