@@ -28,6 +28,8 @@ feign:
     enabled: true
 
 ribbon:
+  eureka:
+    enabled: true
   MaxAutoRetries: 0
   MaxAutoRetriesNextServer: 0
   ConnectTimeout: 1000000
