@@ -1,5 +1,14 @@
 spring:
 
+  # 消息队列
+  activemq:
+    broker-url: tcp://192.168.1.71:61616
+    packages:
+      trust-all: true
+    in-memory: true
+    pool:
+      enabled: true
+
   # redis配置
   redis:
     cluster:
