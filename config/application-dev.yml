@@ -35,8 +35,8 @@ ribbon:
     enabled: true
   MaxAutoRetries: 0
   MaxAutoRetriesNextServer: 0
-  ConnectTimeout: 1000000
-  ReadTimeout: 1200000
+  ConnectTimeout: 100000
+  ReadTimeout: 120000
 
 hystrix:
   command:
@@ -46,7 +46,7 @@ hystrix:
           enabled: true
         isolation:
           thread:
-            timeoutInMilliseconds: 50000
+            timeoutInMilliseconds: 500000
 
 oss:
   oss-url: https://wldev.oss-cn-shenzhen.aliyuncs.com/resources/
