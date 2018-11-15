@@ -32,26 +32,27 @@ feign:
   client:
     config:
       default:
-        connectTimeout: 50000
-        readTimeout: 50000
+        connectTimeout: 5000
+        readTimeout: 5000
 
 ribbon:
-  eureka:
+  eager-load:
     enabled: true
-  MaxAutoRetries: 0
-  MaxAutoRetriesNextServer: 0
-  ConnectTimeout: 100000
-  ReadTimeout: 120000
+  MaxAutoRetries: 1
+  MaxAutoRetriesNextServer: 2
+  OkToRetryOnAllOperations: false
+  ConnectTimeout: 60000
+  ReadTimeout: 20000
 
 hystrix:
   command:
     default:
       execution:
         timeout:
-          enabled: false
+          enabled: true
         isolation:
           thread:
-            timeoutInMilliseconds: 500000
+            timeoutInMilliseconds: 20000
 
 oss:
   oss-url: https://wldev.oss-cn-shenzhen.aliyuncs.com/resources/
