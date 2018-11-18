@@ -14,7 +14,7 @@ spring:
     date-format: yyyy-MM-dd HH:mm:ss
 
   rabbitmq:
-    host: localhost
+    host: 172.18.0.3
     port: 5672
     username: guest
     password: guest
@@ -52,7 +52,7 @@ hystrix:
           enabled: true
         isolation:
           thread:
-            timeoutInMilliseconds: 20000
+            timeoutInMilliseconds: 500000
 
 oss:
   oss-url: https://wldev.oss-cn-shenzhen.aliyuncs.com/resources/
