@@ -8,6 +8,7 @@ spring:
     in-memory: true
     pool:
       enabled: true
+      use-anonymous-producers: true
 
   # redis配置
   redis:
