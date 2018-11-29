@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27e50998-98db-4c02-8b5f-86fe1f35ebec" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/config/app-dev.yml" />
+        <option value="$PROJECT_DIR$/config/jms-dev.yml" />
+        <option value="$PROJECT_DIR$/config/system.yml" />
+        <option value="$PROJECT_DIR$/config/user-dev.yml" />
+        <option value="$PROJECT_DIR$/config/gateway-dev.yml" />
+        <option value="$PROJECT_DIR$/config/question-dev.yml" />
+        <option value="$PROJECT_DIR$/config/application-dev.yml" />
+        <option value="$PROJECT_DIR$/config/story-dev.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1932" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wenliao-cloud-config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenliao-cloud-config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27e50998-98db-4c02-8b5f-86fe1f35ebec" name="Default Changelist" comment="" />
+      <created>1536549966748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536549966748</updated>
+      <workItem from="1536549968805" duration="2725000" />
+      <workItem from="1536627121910" duration="1725000" />
+      <workItem from="1536713240975" duration="5157000" />
+      <workItem from="1536887091590" duration="4898000" />
+      <workItem from="1537231519916" duration="8161000" />
+      <workItem from="1537319388679" duration="4317000" />
+      <workItem from="1537836841979" duration="592000" />
+      <workItem from="1537923204845" duration="583000" />
+      <workItem from="1537931913529" duration="589000" />
+      <workItem from="1537954783339" duration="2599000" />
+      <workItem from="1539219067219" duration="587000" />
+      <workItem from="1539305991368" duration="594000" />
+      <workItem from="1539566350185" duration="70000" />
+      <workItem from="1539566501245" duration="1276000" />
+      <workItem from="1540171363475" duration="18495000" />
+      <workItem from="1540950930017" duration="2161000" />
+      <workItem from="1540982537920" duration="677000" />
+      <workItem from="1541072690076" duration="433000" />
+      <workItem from="1541073919467" duration="555000" />
+      <workItem from="1541379591519" duration="587000" />
+      <workItem from="1541387752949" duration="11960000" />
+      <workItem from="1541679025677" duration="5408000" />
+      <workItem from="1542243718400" duration="3528000" />
+      <workItem from="1542330038373" duration="1880000" />
+      <workItem from="1542762113254" duration="44000" />
+      <workItem from="1542762277251" duration="1454000" />
+      <workItem from="1542848428508" duration="1000000" />
+      <workItem from="1542849526464" duration="271000" />
+      <workItem from="1542849886533" duration="1811000" />
+      <workItem from="1543201356294" duration="74000" />
+      <workItem from="1543201523062" duration="584000" />
+      <workItem from="1543281000406" duration="585000" />
+      <workItem from="1543397716744" duration="1323000" />
+    </task>
+    <task id="LOCAL-00005" summary="修改全局dev配置文件">
+      <created>1536637805368</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1536637805368</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加user-dev配置文件">
+      <created>1536732357960</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1536732357960</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加application-dev配置文件">
+      <created>1536812266969</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1536812266969</updated>
+    </task>
+    <task id="LOCAL-00008" summary="添加application-dev配置文件">
+      <created>1536812351332</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1536812351332</updated>
+    </task>
+    <task id="LOCAL-00009" summary="修改gateway-dev配置文件">
+      <created>1536912207867</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1536912207868</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改hystrix超时时间配置文件">
+      <created>1536912581265</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1536912581265</updated>
+    </task>
+    <task id="LOCAL-00011" summary="修改ribbon超时时间配置文件">
+      <created>1536915479055</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1536915479055</updated>
+    </task>
+    <task id="LOCAL-00012" summary="修改ribbon超时时间配置文件">
+      <created>1536915919236</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1536915919236</updated>
+    </task>
+    <task id="LOCAL-00013" summary="修改redis配置文件">
+      <created>1537235575478</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1537235575478</updated>
+    </task>
+    <task id="LOCAL-00014" summary="修改redis配置文件">
+      <created>1537236732143</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1537236732143</updated>
+    </task>
+    <task id="LOCAL-00015" summary="在gateway中添加redis配置">
+      <created>1537238544192</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1537238544192</updated>
+    </task>
+    <task id="LOCAL-00016" summary="在application-dev中添加mybatis-plus配置">
+      <created>1537241439354</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1537241439354</updated>
+    </task>
+    <task id="LOCAL-00017" summary="在application-dev中添加高德地图、阿里OSS、融云、极光推送配置">
+      <created>1537243205004</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1537243205004</updated>
+    </task>
+    <task id="LOCAL-00018" summary="在application-dev去除数据库配置">
+      <created>1537263419955</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1537263419955</updated>
+    </task>
+    <task id="LOCAL-00019" summary="在application-dev添加oss配置">
+      <created>1537328683601</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1537328683601</updated>
+    </task>
+    <task id="LOCAL-00020" summary="修改gateway配置">
+      <created>1537404891391</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1537404891391</updated>
+    </task>
+    <task id="LOCAL-00021" summary="添加时间配置">
+      <created>1537426821903</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1537426821903</updated>
+    </task>
+    <task id="LOCAL-00022" summary="添加redis集群配置">
+      <created>1538031509189</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1538031509190</updated>
+    </task>
+    <task id="LOCAL-00023" summary="修改数据库配置">
+      <created>1540180214398</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1540180214398</updated>
+    </task>
+    <task id="LOCAL-00024" summary="修改API路径">
+      <created>1540190847497</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1540190847497</updated>
+    </task>
+    <task id="LOCAL-00025" summary="新增问题-question服务">
+      <created>1540193208567</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1540193208567</updated>
+    </task>
+    <task id="LOCAL-00026" summary="更新问题-question服务配置">
+      <created>1540194493071</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1540194493071</updated>
+    </task>
+    <task id="LOCAL-00027" summary="更新问题-question服务配置">
+      <created>1540195103255</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1540195103255</updated>
+    </task>
+    <task id="LOCAL-00028" summary="更新Ribbon配置">
+      <created>1540259636041</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1540259636041</updated>
+    </task>
+    <task id="LOCAL-00029" summary="更新全局配置">
+      <created>1540275322061</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1540275322061</updated>
+    </task>
+    <task id="LOCAL-00030" summary="更新redis集群配置">
+      <created>1540276044782</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1540276044782</updated>
+    </task>
+    <task id="LOCAL-00031" summary="更新Spring Cloud配置">
+      <created>1540546431294</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1540546431294</updated>
+    </task>
+    <task id="LOCAL-00032" summary="新增system系统服务配置">
+      <created>1540784811548</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1540784811548</updated>
+    </task>
+    <task id="LOCAL-00033" summary="新增system系统服务配置">
+      <created>1540785030930</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1540785030930</updated>
+    </task>
+    <task id="LOCAL-00034" summary="修改system系统服务配置">
+      <created>1540785808229</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1540785808229</updated>
+    </task>
+    <task id="LOCAL-00035" summary="修改system系统服务配置">
+      <created>1540792501485</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1540792501485</updated>
+    </task>
+    <task id="LOCAL-00036" summary="更新redis集群配置">
+      <created>1540954675697</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1540954675697</updated>
+    </task>
+    <task id="LOCAL-00037" summary="新增日志配置">
+      <created>1540957635138</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1540957635138</updated>
+    </task>
+    <task id="LOCAL-00038" summary="修改zuul配置">
+      <created>1541468565131</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1541468565131</updated>
+    </task>
+    <task id="LOCAL-00039" summary="修改zuul配置">
+      <created>1541468985666</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1541468985666</updated>
+    </task>
+    <task id="LOCAL-00040" summary="修改zuul配置">
+      <created>1541471470443</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1541471470443</updated>
+    </task>
+    <task id="LOCAL-00041" summary="修改zuul配置">
+      <created>1541472071658</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1541472071658</updated>
+    </task>
+    <task id="LOCAL-00042" summary="修改zuul配置">
+      <created>1541486854888</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1541486854888</updated>
+    </task>
+    <task id="LOCAL-00043" summary="修改zuul配置">
+      <created>1541486907392</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1541486907392</updated>
+    </task>
+    <task id="LOCAL-00044" summary="修改zuul配置">
+      <created>1541488598104</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1541488598104</updated>
+    </task>
+    <task id="LOCAL-00045" summary="新增故事配置">
+      <created>1541667692742</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1541667692742</updated>
+    </task>
+    <task id="LOCAL-00046" summary="修改zuul配置">
+      <created>1541681340280</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1541681340280</updated>
+    </task>
+    <task id="LOCAL-00047" summary="新增消息队列配置">
+      <created>1542089102454</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1542089102454</updated>
+    </task>
+    <task id="LOCAL-00048" summary="修改zuul路由配置">
+      <created>1542112040282</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1542112040282</updated>
+    </task>
+    <task id="LOCAL-00049" summary="修改zuul路由配置">
+      <created>1542268115219</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1542268115219</updated>
+    </task>
+    <task id="LOCAL-00050" summary="修改feign默认连接时间、超时时间">
+      <created>1542269158310</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1542269158311</updated>
+    </task>
+    <task id="LOCAL-00051" summary="修改feign、ribbon、hystrix配置">
+      <created>1542271487147</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1542271487147</updated>
+    </task>
+    <task id="LOCAL-00052" summary="修改rabbitmq配置">
+      <created>1542524609312</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1542524609313</updated>
+    </task>
+    <task id="LOCAL-00053" summary="修改activemq配置">
+      <created>1542764627622</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1542764627623</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="86703000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15085287" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="DB Browser" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
+      <window_info anchor="bottom" id="SonarLint" order="13" />
+      <window_info anchor="bottom" id="Tail" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="16" visible="true" weight="0.2916201" />
+      <window_info anchor="bottom" id="Messages" order="17" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Jenkins" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="在application-dev中添加高德地图、阿里OSS、融云、极光推送配置" />
+    <MESSAGE value="在application-dev去除数据库配置" />
+    <MESSAGE value="在application-dev添加oss配置" />
+    <MESSAGE value="修改gateway配置" />
+    <MESSAGE value="添加时间配置" />
+    <MESSAGE value="添加redis集群配置" />
+    <MESSAGE value="修改数据库配置" />
+    <MESSAGE value="修改API路径" />
+    <MESSAGE value="新增问题-question服务" />
+    <MESSAGE value="更新问题-question服务配置" />
+    <MESSAGE value="更新Ribbon配置" />
+    <MESSAGE value="更新全局配置" />
+    <MESSAGE value="更新Spring Cloud配置" />
+    <MESSAGE value="新增system系统服务配置" />
+    <MESSAGE value="修改system系统服务配置" />
+    <MESSAGE value="更新redis集群配置" />
+    <MESSAGE value="新增日志配置" />
+    <MESSAGE value="新增故事配置" />
+    <MESSAGE value="修改zuul配置" />
+    <MESSAGE value="新增消息队列配置" />
+    <MESSAGE value="修改zuul路由配置" />
+    <MESSAGE value="修改feign默认连接时间、超时时间" />
+    <MESSAGE value="修改feign、ribbon、hystrix配置" />
+    <MESSAGE value="修改rabbitmq配置" />
+    <MESSAGE value="修改activemq配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改activemq配置" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/wenliao-cloud-provider-app-dev.yml" />
+    <entry file="file://$PROJECT_DIR$/config/wenliao-cloud-api-user.yml" />
+    <entry file="file://$PROJECT_DIR$/config/system-dev" />
+    <entry file="file://$PROJECT_DIR$/config/app-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/story-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/city-dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/user-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/system-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/question-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/gateway-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2774">
+          <caret line="146" column="35" selection-start-line="146" selection-start-column="35" selection-end-line="146" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/im-dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/jms-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="66" column="20" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
