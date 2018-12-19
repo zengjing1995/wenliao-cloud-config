@@ -105,7 +105,7 @@ zuul:
       sensitiveHeaders:
       service-id: pay
       ribbon:
-        eager-load:
+         eager-load:
           enabled: true
         MaxAutoRetries: 1
         MaxAutoRetriesNextServer: 2
