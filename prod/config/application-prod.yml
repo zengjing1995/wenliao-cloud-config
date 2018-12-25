@@ -32,8 +32,8 @@ feign:
   client:
     config:
       default:
-        connectTimeout: 5000
-        readTimeout: 5000
+        connectTimeout: 50000
+        readTimeout: 50000
 
 ribbon:
   eager-load:
@@ -49,7 +49,7 @@ hystrix:
     default:
       execution:
         timeout:
-          enabled: true
+          enabled: false
         isolation:
           thread:
             timeoutInMilliseconds: 500000
