@@ -9,10 +9,17 @@ spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://120.77.236.127:3306/manage?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
     username: root
     password: LW8TFo3sNNXKiz0N
     druid:
+      api:
+        url: jdbc:mysql://120.77.236.127:3306/wenliao?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
+        username: appv4
+        password: WhaxayEGholo8Quo4KeLZoLDeLSu2I4FeyChi6
+      manage:
+        url: jdbc:mysql://120.77.236.127:3306/manage?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
+        username: appv4
+        password: WhaxayEGholo8Quo4KeLZoLDeLSu2I4FeyChi6
       initial-size: 10
       max-active: 100
       min-idle: 10
