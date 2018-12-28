@@ -55,16 +55,16 @@ hystrix:
             timeoutInMilliseconds: 500000
 
 oss:
-  oss-url: https://wldev.oss-cn-shenzhen.aliyuncs.com/resources/
+  oss-url: https://wllive.oss-cn-shenzhen.aliyuncs.com/resources/
 
 
 wenliao:
-  oss-url: https://wldev.oss-cn-shenzhen.aliyuncs.com/resources/
-  gd-key: 75c45504295d8dc774e0704ba2095784
+  oss-url: https://wllive.oss-cn-shenzhen.aliyuncs.com/resources/
+  gd-key: a451ac9d58a1b2c64acd28ee5f6624c1
 
 rongcloud:
-  key: mgb7ka1nmwlxg
-  secret: 6y8u09q4lE
+  key: 8w7jv4qb8cney
+  secret: uucRjKaC4t9tii
 
 jpush:
   appKey: 14e0fcd9c7f4b06322c75829
