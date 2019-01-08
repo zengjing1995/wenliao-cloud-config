@@ -25,6 +25,11 @@ spring:
   security:
       basic:
         enabled: false
+  sleuth:
+    sampler:
+      percentage: 1
+  zipkin:
+    base-url: http://192.168.0.177:8083
 
 feign:
   hystrix:
@@ -53,6 +58,10 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 500000
+
+
+
+
 
 oss:
   oss-url: https://wllive.oss-cn-shenzhen.aliyuncs.com/resources/

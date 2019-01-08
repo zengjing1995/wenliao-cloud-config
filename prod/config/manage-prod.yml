@@ -14,12 +14,12 @@ spring:
     druid:
       api:
         url: jdbc:mysql://120.77.236.127:3306/wenliao?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
-        username: appv4
-        password: WhaxayEGholo8Quo4KeLZoLDeLSu2I4FeyChi6
+        username: root
+        password: LW8TFo3sNNXKiz0N
       manage:
         url: jdbc:mysql://120.77.236.127:3306/manage?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
-        username: appv4
-        password: WhaxayEGholo8Quo4KeLZoLDeLSu2I4FeyChi6
+        username: root
+        password: LW8TFo3sNNXKiz0N
       initial-size: 10
       max-active: 100
       min-idle: 10
