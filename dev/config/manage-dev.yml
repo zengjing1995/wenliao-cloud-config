@@ -13,13 +13,13 @@ spring:
     password: LW8TFo3sNNXKiz0N
     druid:
       api:
-        url: jdbc:mysql://192.168.1.64:3306/wenliao?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
+        url: jdbc:mysql://192.168.1.72:3306/wenliao?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
         username: root
-        password: wenliao
+        password: Wenliao123
       manage:
-        url: jdbc:mysql://120.77.236.127:3306/manage?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
-        username: appv4
-        password: WhaxayEGholo8Quo4KeLZoLDeLSu2I4FeyChi6
+        url: jdbc:mysql://192.168.1.72:3306/manage?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
+        username: root
+        password: Wenliao123
       initial-size: 10
       max-active: 100
       min-idle: 10

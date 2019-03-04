@@ -2,7 +2,7 @@ spring:
 
   # 消息队列
   activemq:
-    broker-url: tcp://192.168.1.71:61616
+    broker-url: tcp://192.168.1.73:61616
     packages:
       trust-all: true
     in-memory: true
@@ -19,9 +19,9 @@ spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.1.64:3306/wenliao?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
+    url: jdbc:mysql://192.168.1.72:3306/wenliao?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
     username: root
-    password: wenliao
+    password: Wenliao123
     druid:
       initial-size: 10
       max-active: 100
