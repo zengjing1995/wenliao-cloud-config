@@ -3,23 +3,16 @@ spring:
   # redis配置
   redis:
     cluster:
-        nodes: 192.168.1.71:7001, 192.168.1.71:7002, 192.168.1.71:7003, 192.168.1.71:7003, 192.168.1.71:7005, 192.168.1.71:7006
-
+      nodes: 120.77.56.188:7001, 120.77.56.188:7002, 120.77.56.188:7003, 120.77.56.188:7003, 120.77.56.188:7005, 120.77.56.188:7006
+    password: Pa3Ru6Fe8JuKOKXi8Wu4PhoW
   # 数据源
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://120.78.255.0:3306/wenliao?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
     username: root
-    password: LW8TFo3sNNXKiz0N
+    password: Wenliao123!
     druid:
-      api:
-        url: jdbc:mysql://192.168.1.72:3306/wenliao?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
-        username: root
-        password: Wenliao123
-      manage:
-        url: jdbc:mysql://192.168.1.72:3306/manage?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
-        username: root
-        password: Wenliao123
       initial-size: 10
       max-active: 100
       min-idle: 10
