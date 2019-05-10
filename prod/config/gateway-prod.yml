@@ -163,7 +163,7 @@ zuul:
     activity:
       path: /activity/**
       sensitiveHeaders:
-      service-id: manage
+      service-id: activity
       ribbon:
         eager-load:
           enabled: true
