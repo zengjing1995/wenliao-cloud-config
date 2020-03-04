@@ -1,0 +1,60 @@
+spring:
+
+  # redis配置
+  redis:
+    cluster:
+      nodes: 120.78.254.183:7001, 120.78.254.183:7002, 120.78.254.183:7003, 120.78.254.183:7003, 120.78.254.183:7005, 120.78.254.183:7006
+    password: Pa3Ru6Fe8JuKOKXi8Wu4PhoW
+  # 数据源
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://120.77.236.127:3306/wenliao?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: LW8TFo3sNNXKiz0N
+    druid:
+      initial-size: 10
+      max-active: 100
+      min-idle: 10
+      max-wait: 60000
+      pool-prepared-statements: true
+      max-pool-prepared-statement-per-connection-size: 20
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 300000
+      validation-query: SELECT 1 FROM DUAL
+      test-while-idle: true
+      test-on-borrow: false
+      test-on-return: false
+      stat-view-servlet:
+        enabled: true
+        url-pattern: /druid/*
+        login-username: admin
+        login-password: admin
+      filter:
+        stat:
+          log-slow-sql: true
+          slow-sql-millis: 1000
+          merge-sql: true
+        wall:
+          config:
+            multi-statement-allow: true
+
+mybatis-plus:
+  mapper-locations: classpath:/mapper/**/*.xml
+  #实体扫描，多个package用逗号或者分号分隔
+  typeAliasesPackage: com.wenliao.cloud.domain
+  global-config:
+    #刷新mapper 调试神器
+    refresh: true
+    #序列接口实现类配置
+    db-config:
+      capital-mode: false
+      id-type: auto
+      field-strategy: ignored
+      #驼峰下划线转换
+      column-underline: false
+      table-underline: false
+      #逻辑删除配置
+      logic-delete-value: -1
+      logic-not-delete-value: 0
+      db-type: mysql

@@ -1,0 +1,83 @@
+# Tomcat 配置
+server:
+
+  tomcat:
+    uri-encoding: UTF-8
+    remote-ip-header: x-forwarded-for
+  use-forward-headers: true
+
+# Spring 配置
+spring:
+
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
+
+  rabbitmq:
+    host: 192.168.0.175
+    port: 5672
+    username: guest
+    password: guest
+
+  management:
+    security:
+      enabled: false
+  security:
+      basic:
+        enabled: false
+  sleuth:
+    sampler:
+      percentage: 1
+  zipkin:
+    base-url: http://192.168.0.177:8083
+
+feign:
+  hystrix:
+    enabled: true
+  client:
+    config:
+      default:
+        connectTimeout: 50000
+        readTimeout: 50000
+
+ribbon:
+  eager-load:
+    enabled: true
+  MaxAutoRetries: 1
+  MaxAutoRetriesNextServer: 2
+  OkToRetryOnAllOperations: false
+  ConnectTimeout: 60000
+  ReadTimeout: 20000
+
+hystrix:
+  command:
+    default:
+      execution:
+        timeout:
+          enabled: false
+        isolation:
+          thread:
+            timeoutInMilliseconds: 500000
+
+
+
+
+
+oss:
+  oss-url: https://wllive.oss-cn-shenzhen.aliyuncs.com/resources/
+
+
+wenliao:
+  oss-url: https://wllive.oss-cn-shenzhen.aliyuncs.com/resources/
+  gd-key: a451ac9d58a1b2c64acd28ee5f6624c1
+
+rongcloud:
+  key: 8w7jv4qb8cney
+  secret: uucRjKaC4t9tii
+
+jpush:
+  appKey: 14e0fcd9c7f4b06322c75829
+  master-secret: 0d72459e4ad7316dadbddcd4
+
+logging:
+  file: log
